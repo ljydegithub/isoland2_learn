@@ -3,12 +3,12 @@
 
 ## 学习胖布丁迷失岛2，有部分自己的小设计
 
-![image-20230112110450536](/Users/macos/data/git/isoland2_learn/git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110450536.png)
+![image-20230112110450536](git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110450536.png)
 
-![image-20230112110544662](/Users/macos/data/git/isoland2_learn/git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110544662.png)
+![image-20230112110544662](git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110544662.png)
 
-![image-20230112110623717](/Users/macos/data/git/isoland2_learn/git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110623717.png)
+![image-20230112110623717](git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110623717.png)
 
-![image-20230112110656396](/Users/macos/data/git/isoland2_learn/git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110656396.png)
+![image-20230112110656396](git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110656396.png)
 
-![image-20230112110715280](/Users/macos/data/git/isoland2_learn/git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110715280.png)
+![image-20230112110715280](git_image/:Users:macos:Library:Application Support:typora-user-images:image-20230112110715280.png)
